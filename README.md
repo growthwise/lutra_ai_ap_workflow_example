@@ -27,6 +27,9 @@ For each file in this folder read the PDF file and extract its data. Connect to 
 Upon successful creation of the bills move the processed PDF’s from the root folder to the processed folder in Google drive with ID [Use your processed folder ID here]                
 Create a Google Sheet in the root folder that lists the processed documents as well as the invoice ID that was created in Xero.
 
+
+Once you've entered the prompt above press the play button. Remember to be accurate with your folder ID's!
+
 ### Youtube Video Link ###
 
 ### Lutra Playbook Share Link ###
