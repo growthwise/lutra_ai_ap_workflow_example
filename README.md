@@ -12,7 +12,7 @@ Once you've setup all acocunts you need to do the following in Google Drive
 2. Extract the folder "ID" from the URL you can do this by clicking into the address bar whilst inside the folder and copying the end of the URL https://drive.google.com/drive/u/0/folders/*[thisparthere]*
 3. Keep note of that folder ID
 4. Within the same folder, create another folder, in the video we called it processed and follow the same steps above to copy and save the ID somewhere
-5. Upload some bills to pay to the first folder
+5. Upload some bills to pay to the first folder, you can use the same ones in the video by downloading them from here https://github.com/growthwise/lutra_ai_ap_workflow_example/tree/main/invoices
 
 ### Connecting Lutra to Tools ###
 
@@ -25,7 +25,7 @@ There are PDF files stored in this Google Drive folder with ID [Use your invoice
 For each file in this folder read the PDF file and extract its data. Connect to Xero and find an appropriate expense code using your own best judgement based on the extracted data, avoid using general expenses and create the bill entries
                                                                                                                                                      
 Upon successful creation of the bills move the processed PDF’s from the root folder to the processed folder in Google drive with ID [Use your processed folder ID here]                
-Create a Google Sheet in the root folder that lists the processed documents as well as the invoice ID that was created in Xero. ```
+Create a Google Sheet in the root folder that lists the processed documents as well as the invoice ID that was created in Xero.```
 
 ### Youtube Video Link ###
 
