@@ -4,7 +4,7 @@
 2. A Google Drive account
 3. A Xero account (demo is fine) if you want to sign up to a Xero demo account go here https://www.xero.com/au/signup/
 
-### Setting Everythin Up in Google Drive
+### Setting Everything Up in Google Drive
 
 Once you've setup all acocunts you need to do the following in Google Drive
 
@@ -20,12 +20,12 @@ Login to Lutra, click on Tools and conect to "Drive", "Sheets" and "Xero" you ca
 
 ### The Prompt ###
 
-``` You are a bookkeeping assistant and need to create bills in Xero. 
+You are a bookkeeping assistant and need to create bills in Xero. 
 There are PDF files stored in this Google Drive folder with ID [Use your invoice folder ID Here] 
 For each file in this folder read the PDF file and extract its data. Connect to Xero and find an appropriate expense code using your own best judgement based on the extracted data, avoid using general expenses and create the bill entries
                                                                                                                                                      
 Upon successful creation of the bills move the processed PDF’s from the root folder to the processed folder in Google drive with ID [Use your processed folder ID here]                
-Create a Google Sheet in the root folder that lists the processed documents as well as the invoice ID that was created in Xero.```
+Create a Google Sheet in the root folder that lists the processed documents as well as the invoice ID that was created in Xero.
 
 ### Youtube Video Link ###
 
