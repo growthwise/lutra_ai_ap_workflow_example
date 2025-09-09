@@ -14,9 +14,10 @@ Once you've setup all acocunts you need to do the following in Google Drive
 4. Within the same folder, create another folder, in the video we called it processed and follow the same steps above to copy and save the ID somewhere
 5. Upload some bills to pay to the first folder, you can use the same ones in the video by downloading them from here https://github.com/growthwise/lutra_ai_ap_workflow_example/tree/main/invoices
 
-### Connecting Lutra to Tools ###
+### Connecting Lutra AI to Tools ###
 
-Login to Lutra, click on Tools and conect to "Drive", "Sheets" and "Xero" you can be selective with the scopes but in the video we had all scopes enabled for simplicity. 
+Login to Lutra, click on Tools and conect to "Drive", "Sheets" and "Xero" you can be selective with the scopes but in the video we had all scopes enabled for simplicity. You should
+have already setup all of these accounts earlier. 
 
 ### The Prompt ###
 
