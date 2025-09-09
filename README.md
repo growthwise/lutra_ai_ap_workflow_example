@@ -35,4 +35,6 @@ Once you've entered the prompt above press the play button. Remember to be accur
 
 ### Lutra Playbook Share Link ###
 
-If you just want to directly try the playbook the link is here https://lutra.ai/shared/KVI_Jaolofg             
+If you just want to directly try the playbook the link is here https://lutra.ai/shared/KVI_Jaolofg      
+
+Remember you can also copy it and make your own version 
