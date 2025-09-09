@@ -33,6 +33,8 @@ Once you've entered the prompt above press the play button. Remember to be accur
 
 ### Youtube Video Link ###
 
+https://youtu.be/u25WRHdbRdM
+
 ### AI Prompt Guides Mentioned in the Video ### 
 
 https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
