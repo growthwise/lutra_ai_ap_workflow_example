@@ -33,6 +33,11 @@ Once you've entered the prompt above press the play button. Remember to be accur
 
 ### Youtube Video Link ###
 
+### AI Prompt Guides Mentioned in the Video ### 
+
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+
 ### Lutra Playbook Share Link ###
 
 If you just want to directly try the playbook the link is here https://lutra.ai/shared/KVI_Jaolofg      
